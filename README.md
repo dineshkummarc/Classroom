@@ -1,5 +1,5 @@
 # phpmyClassroom
-formerly EduHome Online Classroom System
+### formerly EduHome Online Classroom System
 
 # Installation
 Mac Os, Ubuntu and windows users continue here:
